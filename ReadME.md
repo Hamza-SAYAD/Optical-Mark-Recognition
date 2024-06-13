@@ -2,7 +2,7 @@
 
 **Nom du projet:** QCM Scanner
 
-**Réalise par:** ZENOUAL Wissal, EN-NAANI Khadija, AHBAL Sanaa, SAYAD Hamza
+
 
 **Description:** Ce projet utilise OpenCV et l'intelligence artificielle pour scanner un QCM à partir d'une image ou d'une vidéo. Le code utilise les étapes suivantes pour scanner un QCM :
 
